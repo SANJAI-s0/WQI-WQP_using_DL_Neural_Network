@@ -88,7 +88,7 @@ To run this project locally, ensure you have Python 3.10+ installed.
 
 2. **Install dependencies:**
    ```bash
-   pip install tensorflow pandas scikit-learn numpy matplotlib seaborn jupyter
+   pip install -r requirements.txt
    ```
 
 3. **Run the analysis:**
